@@ -96,3 +96,9 @@ shodan
 requests
 jinja2
 ```
+
+## Usage
+
+```bash
+python3 main.py
+```
